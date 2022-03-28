@@ -33,13 +33,15 @@
         <tr>
             <td style="width: 520px">Employee Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <asp:TextBox ID="TextBox3" runat="server" AutoPostBack="True" Enabled="False" style="margin-left: 4px"></asp:TextBox>
             </td>
-            <td style="width: 596px">&nbsp;</td>
+            <td style="width: 596px">Pending Ticket:<asp:Label ID="Label7" runat="server" Text="Label"></asp:Label>
+            </td>
         </tr>
         <tr>
             <td style="width: 520px; height: 20px">Department:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <asp:TextBox ID="TextBox4" runat="server" AutoPostBack="True" Enabled="False" Width="116px" style="margin-left: 2px"></asp:TextBox>
             </td>
-            <td style="width: 596px; height: 20px;">&nbsp;</td>
+            <td style="width: 596px; height: 20px;">Now Serving Ticket No.:<asp:Label ID="Label8" runat="server" Text="Label"></asp:Label>
+            </td>
         </tr>
         <tr>
             <td style="width: 520px; height: 25px">Station:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
@@ -49,7 +51,7 @@
         </tr>
         <tr>
             <td style="width: 520px"></td>
-            <td style="width: 596px">&nbsp;</td>
+            <td style="width: 596px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         </tr>
         <tr>
             <td style="width: 520px;">Type of Request:&nbsp;&nbsp;&nbsp;
@@ -72,13 +74,22 @@
                     <asp:ListItem>Others Virus scanning and transfer </asp:ListItem>
                 </asp:DropDownList>
             </td>
-            <td style="width: 596px">&nbsp;</td>
+            <td style="width: 596px">
+            </td>
         </tr>
         <tr>
             <td style="width: 520px">
                 <br />
                 <br />
-                Issues/Initial Action Taken:</td>
+                <br />
+                <br />
+                <br />
+                <br />
+                Issues/Initial Action Taken:<h2 style=" color:yellow; font-size:medium">
+                    To easily address your concern<br />
+                    (PLEASE INDICATE PRINTER NAME, COMPUTER NAME and PROMIS TERMINAL IF AVAILABLE)
+                    </h2>                        
+      </td>
             <td style="width: 596px">&nbsp;</td>
         </tr>
         <tr>

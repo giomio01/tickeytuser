@@ -140,6 +140,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="pictures\BG.jpg" />
     <Content Include="pictures\images.jpg" />
     <Content Include="Ticket.aspx" />
     <Content Include="favicon.ico" />
@@ -153,6 +154,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="confirm.aspx" />
     <None Include="My Project\PublishProfiles\FolderProfile.pubxml" />
     <None Include="My Project\PublishProfiles\IISProfile.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -255,6 +257,13 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.vb">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="confirm.aspx.designer.vb">
+      <DependentUpon>confirm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="confirm.aspx.vb">
+      <DependentUpon>confirm.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
