@@ -17,6 +17,7 @@ Public Class WebForm1
             Label1.Text = reader(0)
         Else
         End If
+        reader.Close()
         connection.Close()
     End Sub
 

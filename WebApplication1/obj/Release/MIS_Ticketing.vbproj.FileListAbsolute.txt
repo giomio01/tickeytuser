@@ -163,15 +163,11 @@ C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\b
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\K4os.Compression.LZ4.dll
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\K4os.Hash.xxHash.dll
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\System.Numerics.Vectors.dll
-C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\MySql.Data.xml
-C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\MySql.Data.EntityFramework.xml
-C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\MySql.Web.xml
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\System.Web.Optimization.xml
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\Newtonsoft.Json.xml
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\Antlr3.Runtime.pdb
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\MIS_Ticketing.vbproj.AssemblyReference.cache
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\WebApplication1.Resources.resources
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\MIS_Ticketing.vbproj.GenerateResource.cache
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\MIS_Ticketing.vbproj.CoreCompileInputs.cache
@@ -179,3 +175,5 @@ C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\o
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\WebApplication1.dll
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\WebForms_Basic.xml
 C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\MIS_Ticketing.vbproj.AssemblyReference.cache
+C:\Users\Administrator.TSPI\Desktop\for deployment\tickeytuser\WebApplication1\obj\Release\MIS_Ticketing.vbproj.ResolveComReference.cache

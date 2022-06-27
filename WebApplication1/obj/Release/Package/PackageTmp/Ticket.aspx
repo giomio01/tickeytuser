@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ticket.aspx.vb" Inherits="WebApplication1._Default" %>
+﻿<%@ Page Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ticket.aspx.vb" Inherits="WebApplication1._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div style ="background-color:lightskyblue; font-size:xx-large" align="center">
@@ -47,7 +47,7 @@
             <td style="width: 520px; height: 25px">Station:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
                 <asp:TextBox ID="TextBox5" runat="server" AutoPostBack="True" Enabled="False" style="margin-left: 0px" Width="115px"></asp:TextBox>
             </td>
-            <td style="width: 596px; height: 25px;"></td>
+            <td style="width: 596px; height: 25px;">&nbsp;</td>
         </tr>
         <tr>
             <td style="width: 520px"></td>
@@ -90,7 +90,9 @@
                     (PLEASE INDICATE PRINTER NAME, COMPUTER NAME and PROMIS TERMINAL IF AVAILABLE)
                     </h2>                        
       </td>
-            <td style="width: 596px">&nbsp;</td>
+            <td style="width: 596px">
+                <asp:Label ID="Label9" runat="server" Text=".." ForeColor="Red" Font-Size="XX-Large"></asp:Label>
+            </td>
         </tr>
         <tr>
             <td>
